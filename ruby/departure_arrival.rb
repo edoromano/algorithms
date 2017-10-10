@@ -1,5 +1,3 @@
-require 'pry'
-
 input = [
 	['GHI', 'JKL'],
 	['ABC', 'DEF'],
